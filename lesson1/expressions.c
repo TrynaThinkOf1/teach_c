@@ -28,6 +28,12 @@ int length = 4;
 int width = 6;
 int area = length * width; // 24
 
+// you can make them as complex as you want
+// say that you wanted to find the area of a corner of square which was circumscribed about a circle
+int radius = 3;
+int square_side = radius * 2;
+double area = ((square_side * square_side) - (3.141592653 * radius * radius)) / 4; // 1.931417
+
 // another one could be
 
 double length = 3.2;
