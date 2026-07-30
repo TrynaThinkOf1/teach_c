@@ -4,5 +4,5 @@
 ===
 
 ## Order 
-- editing_a_program.txt
-- how_to_use_the_compiler.txt
+- editing_a_program.md
+- how_to_use_the_compiler.md
