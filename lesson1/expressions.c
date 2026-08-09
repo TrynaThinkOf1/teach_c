@@ -51,4 +51,8 @@ double one_third_area = (length * width) / 3; // 2.133333
  * Expressions become much more complex than just simple math operations when you encounter real C.
  * There are other types of expressions as well, such as bitwise, boolean, and ternary expressions;
  *  we will learn about those later however.
+ *
+ *
+ * Another thing I feel is important to mention and that you probably have gathered and that I cannot
+ * figure out where else to put: any statement in C must end with a `;` character.
  */
